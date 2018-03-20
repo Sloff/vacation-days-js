@@ -1,0 +1,3 @@
+[submodule "src/vacation-days"]
+	path = src/vacation-days
+	url = https://github.com/Sloff/vacation-days
