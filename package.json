@@ -1,0 +1,16 @@
+{
+  "name": "vacation-days",
+  "version": "1.0.0",
+  "description": "Provides various vacation day related functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sloff/vacation-days-js.git"
+  },
+  "author": "Ettienne Pitts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sloff/vacation-days-js/issues"
+  },
+  "homepage": "https://github.com/Sloff/vacation-days-js#readme"
+}
